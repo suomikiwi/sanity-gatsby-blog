@@ -12,7 +12,7 @@ export default {
     {
       name: 'subtitle',
       type: 'string',
-      title: 'SubTitle'
+      title: 'Subtitle'
     },
     {
       name: 'description',
